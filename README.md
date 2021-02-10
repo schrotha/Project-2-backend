@@ -47,9 +47,9 @@ From the main page, the user can browse through the carousels to select the prod
 Once selected, the products will be added to the users cart which is persisted in the database.
 
 ## Contributors
-Adam Schroth
-Jay Monari
-Chris Davis
-Matthew Sheldon
-Samuel Curtis
-Ian 
+* Adam Schroth
+* Jay Monari
+* Chris Davis
+* Matthew Sheldon
+* Samuel Curtis
+* Ian Real
