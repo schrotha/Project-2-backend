@@ -35,6 +35,8 @@ Circuit Commerce is a full stack web application supporting e-commerce for compu
 
 ## Getting Started
 * Clone the front end and back end repositories
+* git clone https://github.com/schrotha/Project-2-backend.git
+* git clone https://github.com/schrotha/Project-2-front-end.git
 * For backend, go to ProjectApplication2.java and run the project to start back end
 * For frontend, run npm install to install the necessary dependencies
 * Then run npm update to ensure dependencies are the most recent editions
@@ -44,7 +46,9 @@ Circuit Commerce is a full stack web application supporting e-commerce for compu
 The user first needs to create an account to be able to order products, they must open their email to verify their account before it becomes activated.
 Once logged in, the user can select the profile page to view their profile information. They then can click the edit-profile button to edit their user information.
 From the main page, the user can browse through the carousels to select the products they wish to buy. 
-Once selected, the products will be added to the users cart which is persisted in the database.
+Once selected, the products will be added to the users cart which is persisted in the database. 
+The user can then place an order for the products in their cart.
+The user can also view their previous orders by selecting the orders tab in the top right corner.
 
 ## Contributors
 * Adam Schroth
